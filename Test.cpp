@@ -68,7 +68,9 @@
 CWinApp theApp;
 
 //using namespace std;
+
 using namespace cv;
+
 /*
 class SimpleOpenNIViewer
 {
@@ -886,7 +888,9 @@ int _tmain(int argc, TCHAR* argv[], TCHAR* envp[])
 			OctreeViewer v(cloud_path, 2.0);
 			//std::string cloud_path("octreelog.pcd");
 			//OctreeViewer v(cloud_path, 0.02);
-			
+
+
+
 
 			//KinectOpenCV();
 		}
